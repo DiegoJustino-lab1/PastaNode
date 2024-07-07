@@ -1,0 +1,2 @@
+Inicializar um novo projeto Node.js: npm init -y
+Instalar dependências: npm install express body-parser
